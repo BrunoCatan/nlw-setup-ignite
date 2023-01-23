@@ -17,10 +17,10 @@
 <h3> - Designer Mobile </h3><br>
 
 <div style="display: flex;">
-    <img src="./.github/mobile01.png" width="20%" alt="pré visualização do projeto nlw setup mobile">
-    <img src="./.github/mobile02.png" width="20%" alt="pré visualização do projeto nlw setup mobile">
-    <img src="./.github/mobile03.png" width="20%" alt="pré visualização do projeto nlw setup mobile">
-    <img src="./.github/mobile04.png" width="20%" alt="pré visualização do projeto nlw setup mobile">
+    <img src="./.github/mobile01.png" width="25%" alt="pré visualização do projeto nlw setup mobile">
+    <img src="./.github/mobile02.png" width="25%" alt="pré visualização do projeto nlw setup mobile">
+    <img src="./.github/mobile03.png" width="25%" alt="pré visualização do projeto nlw setup mobile">
+    <img src="./.github/mobile04.png" width="25%" alt="pré visualização do projeto nlw setup mobile">
 </div>
 
 ##
@@ -28,9 +28,9 @@
 <h3> - Designer Web</h3><br>
 
 <div style="align-items: center;">
-    <img src="./.github/web01.png" width="45%" alt="pré visualização do projeto nlw setup web">
-    <img src="./.github/web02.png" width="45%" alt="pré visualização do projeto nlw setup web">
-    <img src="./.github/web03.png" width="45%" alt="pré visualização do projeto nlw setup web">
+    <img src="./.github/web01.png"alt="pré visualização do projeto nlw setup web">
+    <img src="./.github/web02.png"alt="pré visualização do projeto nlw setup web">
+    <img src="./.github/web03.png"alt="pré visualização do projeto nlw setup web">
 </div>
 
 <br>
