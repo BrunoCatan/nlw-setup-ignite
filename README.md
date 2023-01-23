@@ -17,10 +17,10 @@
 <h3> - Designer Mobile </h3><br>
 
 <div style="display: flex;">
-    <img src="./.github/mobile01.png" width="25%" alt="pré visualização do projeto nlw setup mobile">
-    <img src="./.github/mobile02.png" width="25%" alt="pré visualização do projeto nlw setup mobile">
-    <img src="./.github/mobile03.png" width="25%" alt="pré visualização do projeto nlw setup mobile">
-    <img src="./.github/mobile04.png" width="25%" alt="pré visualização do projeto nlw setup mobile">
+    <img src="./.github/mobile01.png" width="22%" alt="pré visualização do projeto nlw setup mobile">
+    <img src="./.github/mobile02.png" width="22%" alt="pré visualização do projeto nlw setup mobile">
+    <img src="./.github/mobile03.png" width="22%" alt="pré visualização do projeto nlw setup mobile">
+    <img src="./.github/mobile04.png" width="22%" alt="pré visualização do projeto nlw setup mobile">
 </div>
 
 ##
